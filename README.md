@@ -14,7 +14,7 @@ A personal finance application for budget analysis, savings optimization, and fi
 
 1. **Clone and Setup**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/wellatleastitried/BudgetAnalysis.git
    cd BudgetAnalysis
    cp .env.example .env  # Edit with your values
    ```
